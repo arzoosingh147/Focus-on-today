@@ -2,3 +2,12 @@ body {
     background-color: rgba(72, 163, 0, 0.07);
     font-family: 'Poppins', sans-serif;
 }
+.title {
+    font-size: 64px;
+    color: #48a300;
+    text-align: center;
+  }
+  
+  .title span {
+    color: #61481c;
+  }
