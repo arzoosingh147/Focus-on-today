@@ -11,3 +11,6 @@ body {
   .title span {
     color: #61481c;
   }
+  .app-container {
+    background-color: #fbfbfb;
+  }
